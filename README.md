@@ -10,7 +10,10 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 <h3>Descrição do Projeto</h3>
 <p>O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:</p>
 
-Etapa 1: - [Nome da ferramenta] - [Foco da ferramenta] - [Descrição de caso de uso]
+Etapa 1: 
+<b>- Nome da ferramenta:</b> Amazon S3 (Simple Storage Service)
+- Foco da ferramenta: Armazenamento seguro e escalável de dados
+- Descrição de caso de uso: O Amazon S3 foi implementado para armazenar com segurança os dados da empresa, incluindo informações sobre produtos farmacêuticos, registros de vendas e informações de clientes. Isso permitirá um acesso rápido e confiável a esses dados, contribuindo para uma gestão mais eficiente.
 
 Etapa 2: - [Nome da ferramenta] - [Foco da ferramenta] - [Descrição de caso de uso]
 
