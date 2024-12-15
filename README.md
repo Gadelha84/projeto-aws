@@ -10,14 +10,20 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 <h3>Descrição do Projeto</h3>
 <p>O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:</p>
 
-Etapa 1: 
-<b>- Nome da ferramenta:</b> Amazon S3 (Simple Storage Service)
-- Foco da ferramenta: Armazenamento seguro e escalável de dados
-- Descrição de caso de uso: O Amazon S3 foi implementado para armazenar com segurança os dados da empresa, incluindo informações sobre produtos farmacêuticos, registros de vendas e informações de clientes. Isso permitirá um acesso rápido e confiável a esses dados, contribuindo para uma gestão mais eficiente.
+Etapa 1: Implantação Amazon S3
+- Nome da ferramenta: Amazon - S3 Simple Storage Service
+- Foco da ferramenta: Armazenamento e escalabilidade de dados com segurança
+- Descrição de caso de uso: A implantação do Amazon S3 viabiliza o armazenamento com segurança os dados da empresa, informações sigilosas e dados dos produtos farmacêuticos, registros de vendas, estoque e informações dos clientes.
 
-Etapa 2: - [Nome da ferramenta] - [Foco da ferramenta] - [Descrição de caso de uso]
+Etapa 2: Implantação Amazon RDS
+- Nome da ferramenta: Amazon RDS - Relational Database Service
+- Foco da ferramenta: Gerenciamento de banco de dados relacional
+- Descrição de caso de uso: O Amazon RDS foi implantado para gerenciar o banco de dados da empresa, o que inclui informações sobre fornecedores, estoque e histórico de pedidos.
 
-Etapa 3: - [Nome da ferramenta] - [Foco da ferramenta] - [Descrição de caso de uso]
+Etapa 3: Implantação Amazon EC2
+- Nome da ferramenta: Amazon EC2 - Elastic Compute Cloud
+- Foco da ferramenta: Computação e ecalabilidade
+- Descrição de caso de uso: O Amazon EC2 foi implementado para fornecer recursos de computação escaláveis, permitindo que a empresa lide com cargas de trabalho variáveis de maneira eficiente. Isso otimizará os processos de processamento de pedidos e gerenciamento de estoque, resultando em uma redução de custos operacionais.
 
 <h3>Conclusão</h3>
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado redução de custos, disponibilidade e escalabilidade, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
