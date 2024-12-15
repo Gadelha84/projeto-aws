@@ -1,6 +1,6 @@
 # projeto-aws
 
-<h1>RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS</h1>
+<h2>RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS</h2>
 
 Data: [data de início do projeto] Empresa: Abstergo Industries Responsável: [nome do responsável pelo projeto]
 
