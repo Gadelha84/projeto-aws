@@ -20,8 +20,8 @@ Etapa 3: - [Nome da ferramenta] - [Foco da ferramenta] - [Descrição de caso de
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado redução de custos, disponibilidade e escalabilidade, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 <h3>Anexos</h3>
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+<p>[lista de anexos, como manuais, documentos, planilhas, entre outros]</p>
 
-<p>Assinatura do Responsável pelo Projeto:</p>
+Assinatura do Responsável pelo Projeto:
 
 Paulo Cesar Pereira Gadelha
