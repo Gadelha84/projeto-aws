@@ -22,6 +22,6 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 <h3>Anexos</h3>
 [lista de anexos, como manuais, documentos, planilhas, entre outros]
 
-Assinatura do Responsável pelo Projeto:
+<p>Assinatura do Responsável pelo Projeto:</p>
 
 Paulo Cesar Pereira Gadelha
