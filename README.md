@@ -16,10 +16,10 @@ Etapa 2: - [Nome da ferramenta] - [Foco da ferramenta] - [Descrição de caso de
 
 Etapa 3: - [Nome da ferramenta] - [Foco da ferramenta] - [Descrição de caso de uso]
 
-Conclusão
+<h3>Conclusão</h3>
 A implementação de ferramentas na empresa [nome da empresa] tem como esperado [benefícios das ferramentas], o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
-Anexos
+<h3>Anexos</h3>
 [lista de anexos, como manuais, documentos, planilhas, entre outros]
 
 Assinatura do Responsável pelo Projeto:
