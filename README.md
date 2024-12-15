@@ -23,7 +23,7 @@ Etapa 2: Implantação Amazon RDS
 Etapa 3: Implantação Amazon EC2
 - Nome da ferramenta: Amazon EC2 - Elastic Compute Cloud
 - Foco da ferramenta: Computação e ecalabilidade
-- Descrição de caso de uso: O Amazon EC2 foi implementado para fornecer recursos de computação escaláveis, permitindo que a empresa lide com cargas de trabalho variáveis de maneira eficiente. Isso otimizará os processos de processamento de pedidos e gerenciamento de estoque, resultando em uma redução de custos operacionais.
+- Descrição de caso de uso: O Amazon EC2 foi implantado para fornecer recursos de computação e escalabilidade, permitindo que a empresa lide com cargas de trabalho variáveis de maneira eficiente. Isso otimizará os processos de processamento de pedidos e gerenciamento de estoque, resultando em uma redução de custos operacionais.
 
 <h3>Conclusão</h3>
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado redução de custos, disponibilidade e escalabilidade, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
