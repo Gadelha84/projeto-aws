@@ -8,7 +8,7 @@ Data: 14/12/2024 Empresa: Abstergo Industries Responsável: Paulo Cesar Pereira 
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Paulo Cesar Pereira Gadelha. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 <h3>Descrição do Projeto</h3>
-<br>O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:</br>
+<p>O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:</p>
 
 Etapa 1: - [Nome da ferramenta] - [Foco da ferramenta] - [Descrição de caso de uso]
 
